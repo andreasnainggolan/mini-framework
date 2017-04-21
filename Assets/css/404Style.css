@@ -1,0 +1,28 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: #E8E8E8;
+}
+
+#error{
+	margin: 200px auto;
+	width: 100%;
+	text-align: center;
+	background-color: #FFF;
+	padding: 10px 0px;
+}
+
+#error h1{
+	font-size: 130px;
+	letter-spacing: 20px;
+	line-height: 120px;
+}
+
+#error p{
+	font-size: 24px;
+	font-weight: bold;
+}
+

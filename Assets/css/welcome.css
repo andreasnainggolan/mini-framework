@@ -1,0 +1,48 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color: #FFFFFF;
+}
+
+#welcome_coconut{
+	background-color: rgba(229,228,228,1);
+	border: 1px solid #CBCACA;
+	width: 80%;
+	margin: 50px auto;
+	padding: 10px;
+	box-sizing: border-box;
+	color: #373737;
+}
+
+#welcome_coconut h2{
+	border-bottom: 1px solid black;
+	margin: 10px 0px;
+	line-height: 40px;
+	text-align: center;
+	color: #A35D11;
+}
+
+.message_super{
+	background-color: #fff;
+	border: 1px solid #AAAAAA;
+	padding: 10px;
+	margin: 10px 0px;
+	font-size: 16px;
+}
+
+.message_super ul li{
+	margin: 5px 30px;
+}
+
+.message_super .locate{
+	margin: 2px 30px;	
+}
+
+#footer{
+	background-color: #FFF;
+	padding: 5px;
+	text-align: center;
+}
